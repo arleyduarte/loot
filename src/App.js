@@ -13,7 +13,6 @@ const App = () => {
       <div>
         Powered by{" "}
         <a target="_blank" href="https://www.coindesk.com/price">
-          {" "}
           Coindesk
         </a>
       </div>
